@@ -11,7 +11,7 @@ metadata:
 
 ## Purpose
 
-Applies final language polish to the synthesised sprint report — spelling, grammar, clarity, and voice consistency.
+Applies final language polish to the synthesized sprint report — spelling, grammar, clarity, and voice consistency.
 
 ## Voice Profile
 
