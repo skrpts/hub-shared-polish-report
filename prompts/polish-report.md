@@ -4,6 +4,11 @@ id: polish-report
 title: Polish Report
 description: "Final language polish on the sprint report"
 tags: [Production, Quality]
+context_params:
+  source:
+    label: "Input"
+    description: "The input supplied by the upstream step."
+    required: true
 metadata:
   output_format: markdown
   prompt_type: task
@@ -44,7 +49,7 @@ You are a language polish agent. Review and clean up the sprint report below.
 
 ### Input
 
-- **Report draft:** {{steps.previous.output}}
+- **Report draft:** {{step.context.source}}
 
 ### Output
 

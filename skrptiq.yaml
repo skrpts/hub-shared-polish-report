@@ -3,7 +3,7 @@ id: "7b318111-b190-4ac6-b95d-448178de97b6"
 name: "polish-report"
 display_name: "Polish Report"
 description: "Final language polish on the sprint report"
-version: "1.0.3"
+version: "1.0.4"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -28,7 +28,7 @@ contents:
 
 security:
   status: "pass"
-  scanned_at: "2026-07-16T14:46:34.856Z"
+  scanned_at: "2026-10-25T16:48:47.910Z"
   scanner_version: "3.3.0"
   syntactic: "pass"
   structural: "pass"
